@@ -1,0 +1,10 @@
+# Daily Coding Problem for 12th July 2018
+
+Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.
+
+## Example:
+
+Given the query string de and the set of strings [dog, deer, deal], return [deer, deal].
+
+### Asked by:
+Twitter
