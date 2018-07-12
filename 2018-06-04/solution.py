@@ -15,5 +15,5 @@ def serialize(node):
     return serialized_string
     
 if __name__ == '__main__':
-    node = Node(1, Node(3, Node(4)), Node(2))
+    node = Node(1, Node(2), Node(3))
     print(serialize(node))
